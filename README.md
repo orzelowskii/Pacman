@@ -1,6 +1,6 @@
 # Pacman
 
-##Opis projektu
+## Opis projektu
 Ten projekt to implementacja klasycznej gry Pacman w języku Java. Aplikacja wykorzystuje bibliotekę Swing do tworzenia interfejsu użytkownika oraz graficznej reprezentacji gry. Celem gry jest zdobycie jak największej liczby punktów poprzez zbieranie kropek i unikanie duchów.
 
 ## Funkcje projektu
